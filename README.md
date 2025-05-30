@@ -6,10 +6,6 @@
   </a>
 </p>
 <br />
-
-
-
-<br />
 Actualmente estoy cursando en un  Grado Superior de DAW .
 
 Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar herramientas innovadoras. Además, me esfuerzo constantemente por mejorar mis habilidades planteándome retos diarios.
