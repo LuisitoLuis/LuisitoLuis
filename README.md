@@ -11,7 +11,7 @@ Actualmente estoy cursando en un  Grado Superior de DAW .
 Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar herramientas innovadoras. Además, me esfuerzo constantemente por mejorar mis habilidades planteándome retos diarios.
 <br />
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vercel,astro,tailwind,py,figma,githubactions,react,mongodb,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vercel,astro,tailwind,py,figma,githubactions,react,mongodb,netlify)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuisitoLuis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LuisitoLuis&theme=catppuccin_mocha&hide_border=false)<br/>
