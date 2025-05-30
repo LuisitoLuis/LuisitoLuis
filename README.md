@@ -1,7 +1,7 @@
 <br />
 <h2>Hola soy Luis, Bienvenido a mi perfil de GitHub! <img src="https://github.com/LuisitoLuis/LuisitoLuis/blob/main/Gifs/Hi.gif" width="30"></h2>
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/luismartinezcabañero">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
