@@ -1,7 +1,8 @@
 <br />
 <h2>Hola soy Luis, Bienvenido a mi perfil de GitHub! <img src="https://github.com/LuisitoLuis/LuisitoLuis/blob/main/Gifs/Hi.gif" width="30"></h2>
-(https://skillicons.dev/icons?i=linkedin)
 <br />
+(https://skillicons.dev/icons?i=linkedin)
+
 
 <br />
 Actualmente estoy cursando en un  Grado Superior de DAW .
