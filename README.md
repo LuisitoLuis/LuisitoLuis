@@ -1,6 +1,6 @@
 <br />
 <h2>Hola soy Luis, Bienvenido a mi perfil de GitHub! <img src="https://github.com/LuisitoLuis/LuisitoLuis/blob/main/Gifs/Hi.gif" width="30"></h2>
-(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luismartinezcaba%C3%B1ero/)
+(https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/luismartinezcaba%C3%B1ero/)
 <br />
 
 <br />
