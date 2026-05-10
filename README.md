@@ -11,4 +11,4 @@ Actualmente estoy cursando en un  Grado Superior de DAW .
 Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar herramientas innovadoras. Además, me esfuerzo constantemente por mejorar mis habilidades planteándome retos diarios.
 <br />
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,astro,tailwind,githubactions,git,react,mongodb)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,git,mongodb,mysql)
