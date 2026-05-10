@@ -12,10 +12,3 @@ Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar he
 <br />
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,astro,tailwind,githubactions,git,react,mongodb)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuisitoLuis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuisitoLuis&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisitoLuis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LuisitoLuis&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
