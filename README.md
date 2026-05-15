@@ -14,4 +14,4 @@ Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar he
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,git,mongodb,mysql)
 
 # 📊 GitHub Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LuisitoLuis&theme=catppuccin-mocha&locale=es&short_numbers=true&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LuisitoLuis&theme=catppuccin-mocha&mode=weekly" alt="GitHub Streak" /></a>
