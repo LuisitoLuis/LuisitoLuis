@@ -12,5 +12,8 @@ Actualmente estoy cursando en un  Grado Superior de DAW .
 
 Me apasiona adquirir conocimientos sobre tecnologías emergentes y aprovechar herramientas innovadoras. Además, me esfuerzo constantemente por mejorar mis habilidades planteándome retos diarios.
 <br />
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,git,mongodb,mysql)
+
+# 📊 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisitoLuis&show_icons=true&theme=synthwave)
